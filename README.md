@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Mateushzz
-- 👀 I’m interested in joining the professional programming environment.
-- 🌱 I’m currently learning various programming languages.
-- 💞️ For now i'm not looking to collaborate on anything.
+👾 Olá, Mundo! Sou Mateus Aroeira!
+ - ☂️ Estudando HTML
 
-<!---
-Mateushzz/Mateushzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/Mateushzz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateushzz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateushzz&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
